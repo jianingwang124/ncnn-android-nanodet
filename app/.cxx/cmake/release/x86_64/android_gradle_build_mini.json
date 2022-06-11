@@ -1,0 +1,35 @@
+{
+  "buildFiles": [
+    "/home/jackson/AndroidStudioProjects/ncnn-android-nanodet/app/src/main/jni/ncnn-20220420-android-vulkan/x86_64/lib/cmake/SPIRVTargets-release.cmake",
+    "/home/jackson/Android/Sdk/ndk/20.0.5594570/build/cmake/platforms.cmake",
+    "/home/jackson/AndroidStudioProjects/ncnn-android-nanodet/app/src/main/jni/ncnn-20220420-android-vulkan/x86_64/lib/cmake/SPIRVTargets.cmake",
+    "/home/jackson/AndroidStudioProjects/ncnn-android-nanodet/app/src/main/jni/ncnn-20220420-android-vulkan/x86_64/lib/cmake/OSDependentTargets.cmake",
+    "/home/jackson/AndroidStudioProjects/ncnn-android-nanodet/app/src/main/jni/opencv-mobile-4.5.4-android/sdk/native/jni/abi-x86_64/OpenCVModules.cmake",
+    "/home/jackson/AndroidStudioProjects/ncnn-android-nanodet/app/src/main/jni/opencv-mobile-4.5.4-android/sdk/native/jni/abi-x86_64/OpenCVModules-release.cmake",
+    "/home/jackson/AndroidStudioProjects/ncnn-android-nanodet/app/src/main/jni/ncnn-20220420-android-vulkan/x86_64/lib/cmake/OGLCompilerTargets-release.cmake",
+    "/home/jackson/AndroidStudioProjects/ncnn-android-nanodet/app/src/main/jni/opencv-mobile-4.5.4-android/sdk/native/jni/OpenCVConfig-version.cmake",
+    "/home/jackson/AndroidStudioProjects/ncnn-android-nanodet/app/src/main/jni/ncnn-20220420-android-vulkan/x86_64/lib/cmake/ncnn/ncnn-release.cmake",
+    "/home/jackson/AndroidStudioProjects/ncnn-android-nanodet/app/src/main/jni/CMakeLists.txt",
+    "/home/jackson/Android/Sdk/ndk/20.0.5594570/build/cmake/android.toolchain.cmake",
+    "/home/jackson/AndroidStudioProjects/ncnn-android-nanodet/app/src/main/jni/ncnn-20220420-android-vulkan/x86_64/lib/cmake/glslangTargets.cmake",
+    "/home/jackson/AndroidStudioProjects/ncnn-android-nanodet/app/src/main/jni/opencv-mobile-4.5.4-android/sdk/native/jni/OpenCVConfig.cmake",
+    "/home/jackson/AndroidStudioProjects/ncnn-android-nanodet/app/src/main/jni/ncnn-20220420-android-vulkan/x86_64/lib/cmake/ncnn/ncnn.cmake",
+    "/home/jackson/AndroidStudioProjects/ncnn-android-nanodet/app/src/main/jni/ncnn-20220420-android-vulkan/x86_64/lib/cmake/OSDependentTargets-release.cmake",
+    "/home/jackson/AndroidStudioProjects/ncnn-android-nanodet/app/src/main/jni/ncnn-20220420-android-vulkan/x86_64/lib/cmake/ncnn/ncnnConfig.cmake",
+    "/home/jackson/AndroidStudioProjects/ncnn-android-nanodet/app/src/main/jni/ncnn-20220420-android-vulkan/x86_64/lib/cmake/OGLCompilerTargets.cmake",
+    "/home/jackson/AndroidStudioProjects/ncnn-android-nanodet/app/src/main/jni/opencv-mobile-4.5.4-android/sdk/native/jni/abi-x86_64/OpenCVConfig.cmake",
+    "/home/jackson/AndroidStudioProjects/ncnn-android-nanodet/app/src/main/jni/ncnn-20220420-android-vulkan/x86_64/lib/cmake/glslangTargets-release.cmake"
+  ],
+  "cleanCommands": [
+    "/home/jackson/Android/Sdk/cmake/3.10.2.4988404/bin/ninja -C \"/home/jackson/AndroidStudioProjects/ncnn-android-nanodet/app/.cxx/cmake/release/x86_64\" clean"
+  ],
+  "buildTargetsCommand": "/home/jackson/Android/Sdk/cmake/3.10.2.4988404/bin/ninja -C \"/home/jackson/AndroidStudioProjects/ncnn-android-nanodet/app/.cxx/cmake/release/x86_64\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "nanodetncnn-Release-x86_64": {
+      "artifactName": "nanodetncnn",
+      "buildCommand": "/home/jackson/Android/Sdk/cmake/3.10.2.4988404/bin/ninja -C \"/home/jackson/AndroidStudioProjects/ncnn-android-nanodet/app/.cxx/cmake/release/x86_64\" nanodetncnn",
+      "abi": "x86_64",
+      "output": "/home/jackson/AndroidStudioProjects/ncnn-android-nanodet/app/build/intermediates/cmake/release/obj/x86_64/libnanodetncnn.so"
+    }
+  }
+}

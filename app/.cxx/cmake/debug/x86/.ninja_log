@@ -1,0 +1,5 @@
+# ninja log v5
+1	931	1654958545	CMakeFiles/nanodetncnn.dir/ndkcamera.cpp.o	adf1959f2ee2b370
+0	989	1654958545	CMakeFiles/nanodetncnn.dir/nanodetncnn.cpp.o	dfcfe335a95a310c
+1	1136	1654958545	CMakeFiles/nanodetncnn.dir/nanodet.cpp.o	8d70d67cd3800626
+1136	1596	1654958545	/home/jackson/AndroidStudioProjects/ncnn-android-nanodet/app/build/intermediates/cmake/debug/obj/x86/libnanodetncnn.so	44bdb115969ddfa5
